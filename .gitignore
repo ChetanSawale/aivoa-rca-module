@@ -1,0 +1,24 @@
+# secrets
+.env
+backend/.env
+frontend/.env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# node
+node_modules/
+frontend/dist/
+
+# app data
+*.db
+backend/rca.db
+
+# misc
+.DS_Store
+
+# typescript build info
+*.tsbuildinfo
